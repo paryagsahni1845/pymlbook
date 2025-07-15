@@ -1,1 +1,1 @@
-## Implementing Machine Learning with Pytorch and Skikit-Learn
+## Implementing Machine Learning with Pytorch and Scikit-Learn
